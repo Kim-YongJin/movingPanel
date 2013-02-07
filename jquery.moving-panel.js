@@ -14,10 +14,10 @@
  *  Properties of object is below.
  *
  *  id : Set id of panel. Default value is "movingPanel";
- *  borderWidth : Set border width of panel. Default value is "2px";
- *  borderColor : Set border color of panel. Default value is "#FF9999";
+ *  borderWidth : Set border width of panel. Default value is "0px";
+ *  borderColor : Set border color of panel. Default value is "none";
  *  border : Set border of panel. Default value is " solid " + borderColor;
- *  backgroundColor : Set background color of panel. Default value is "#FFEEAA";
+ *  backgroundColor : Set background color of panel. Default value is "none";
  *  width : Set width of panel. Default value is null;
  *  height : Set height of panel. Default value is null;
  *  top : Set top of panel. Default value is "0px";
